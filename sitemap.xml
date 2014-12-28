@@ -33,4 +33,16 @@
 		<priority>1.00</priority>
 		<changefreq>daily</changefreq>
 	</url>
+	<url>
+		<loc>http://kazhakkoottam.com/aariyas.html</loc>
+		<lastmod>2014-12-28T08:30:00+00:00</lastmod>
+		<priority>1.00</priority>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://kazhakkoottam.com/aj_hospital.html</loc>
+		<lastmod>2014-12-28T08:30:00+00:00</lastmod>
+		<priority>1.00</priority>
+		<changefreq>daily</changefreq>
+	</url>
 </urlset>
